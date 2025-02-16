@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aditya! 👋
 
-<!--
-**Adityaiyer3004/Adityaiyer3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm passionate about AI, machine learning, and data science. I enjoy exploring data to uncover insights, building predictive models, and developing interactive applications. Check out my projects to see how I apply these skills!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 About Me
+
+- 🎓 **Education**: Master's in AI from Queen Mary University of London  
+- 💼 **Experience**: Junior AI Engineer, Former Python and AI Teacher and Instructor  
+- 🔍 **Current Focus**: Building AI-driven analytics tools for retail and finance  
+
+
+
+
+## 🔧 Skills
+
+- **Programming Languages**: Python, SQL, JavaScript
+- **Machine Learning**: TensorFlow, Scikit-Learn, NLP
+- **Big Data**: Spark, Hadoop, AWS
+- **Data Visualization**: Tableau, Matplotlib, Seaborn
+- **Web Development**: Flask, Streamlit, React
+
+## 🌍 Connect with Me
+
+- **LinkedIn**: [Aditya Iyer](linkedin.com/in/aditya-iyer)
+- **Email**: adityaiyer30@gmail.com
+
+Feel free to explore my projects and reach out if you'd like to discuss opportunities or collaborate!
