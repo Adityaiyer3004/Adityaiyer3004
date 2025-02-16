@@ -1,3 +1,13 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/![IMG_2321 2](https://github.com/user-attachments/assets/a0944ab7-1ab7-444b-b845-be21759c7e74)
+" width="200" height="200">
+</p>
+
+# Hi there, I'm Aditya! 👋
+
+
+
 # Hi there, I'm Aditya! 👋
 
 Welcome to my GitHub!
