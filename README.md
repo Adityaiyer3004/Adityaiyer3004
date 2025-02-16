@@ -1,6 +1,7 @@
 
-![Profile Picture](https://raw.githubusercontent.com/Adityaiyer3004/Adityaiyer3004/main/IMG_2321%202.JPG)
-
+[![Profile Picture](https://raw.githubusercontent.com/Adityaiyer3004/Adityaiyer3004/main/IMG_2321%202.JPG)
+](https://raw.githubusercontent.com/Adityaiyer3004/Adityaiyer3004/main/Profile.jpg
+)
 
 
 # Hi there, I'm Aditya! 👋
