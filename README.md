@@ -1,5 +1,6 @@
 
-![Aditya's Profile Picture](IMG_2321 2.jpg)
+![Profile Picture](https://raw.githubusercontent.com/Adityaiyer3004/Adityaiyer3004/main/IMG_2321%202.JPG)
+
 
 
 # Hi there, I'm Aditya! 👋
