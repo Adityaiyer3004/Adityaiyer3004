@@ -10,16 +10,15 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 - 💼 **Experience**: Junior AI Engineer, Former Python and AI Teacher and Instructor  
 - 🔍 **Current Focus**: Building AI-driven analytics tools for retail and finance  
 
-
-
-
 ## 🔧 Skills
 
-- **Programming Languages**: Python, SQL, JavaScript
-- **Machine Learning**: TensorFlow, Scikit-Learn, NLP
-- **Big Data**: Spark, Hadoop, AWS
+- **Programming: Python, C++, Java, R, PHP, JavaScript, SQL
+- **Machine Learning & AI Implementation**: TensorFlow, PyTorch, MLOps, LLMs, Keras
+- **Data Engineering & Big Data**: PostgreSQL, MySQL, NoSQL (MongoDB)
 - **Data Visualization**: Tableau, Matplotlib, Seaborn
 - **Web Development**: Flask, Streamlit, React
+- **Cloud & Infrastructure**: AWS, Kubernetes, Terraform, GitHub Actions, Docker
+
 
 ## 🌍 Connect with Me
 
