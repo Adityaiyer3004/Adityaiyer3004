@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adityaiyer3004/Adityaiyer3004/main/Profile.jpg" width="200" height="200">
-</p>
-
-
-
 # Hi there, I'm Aditya! 👋
 
 Welcome to my GitHub!
