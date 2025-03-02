@@ -13,7 +13,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 
 ## 🔧 Skills
 
-- **Programming: Python, C++, Java, R, PHP, JavaScript, SQL
+- **Programming**: Python, C++, Java, R, PHP, JavaScript, SQL
 - **Machine Learning & AI Implementation**: TensorFlow, PyTorch, MLOps, LLMs, Keras
 - **Data Engineering & Big Data**: PostgreSQL, MySQL, NoSQL (MongoDB)
 - **Data Visualization**: Tableau, Matplotlib, Seaborn
