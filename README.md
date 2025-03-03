@@ -9,7 +9,23 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 
 - 🎓 **Education**: Master's in AI from Queen Mary University of London  
 - 💼 **Experience**: Junior AI Engineer, Former Python and AI Teacher and Instructor  
-- 🔍 **Current Focus**: Building AI-driven analytics tools for retail and finance  
+- 🔍 **Current Focus**: Building AI-driven analytics tools for retail and finance
+
+## 🚀 My Projects
+
+### 🛡️ Credit Card Fraud Detection
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Adityaiyer3004/Adityaiyer3004-AI-Credit-Card-Fraud-Detection)
+
+🔍 A fraud detection system combining Deep Learning & GPT-4 to detect fraud and generate AI-powered reports.
+
+- ✅ **Detects fraudulent transactions** using Deep Learning (Focal Loss)
+- 🤖 **Generates AI-powered fraud reports** using GPT-4
+- 🎛️ **Provides an interactive UI** for fraud analysts using Gradio
+
+🔗 **Check out the project:**  
+
+[📂 Credit Card Fraud Detection](https://github.com/Adityaiyer3004/Adityaiyer3004-AI-Credit-Card-Fraud-Detection)
+
 
 ## 🔧 Skills
 
