@@ -13,7 +13,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 
 ## 🚀 My Projects
 
-### 🛡️ Credit Card Fraud Detection
+### Project 1: 🛡️ Credit Card Fraud Detection
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Adityaiyer3004/Adityaiyer3004-AI-Credit-Card-Fraud-Detection)
 
 🔍 A fraud detection system combining Deep Learning & GPT-4 to detect fraud and generate AI-powered reports.
@@ -25,6 +25,20 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 🔗 **Check out the project:**  
 
 [📂 Credit Card Fraud Detection](https://github.com/Adityaiyer3004/Adityaiyer3004-AI-Credit-Card-Fraud-Detection)
+
+### 📈 AAPL Stock Prediction  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Adityaiyer3004/AAPL-Stock-Prediction)
+
+📊 Project 2: LSTM-based stock price prediction for Apple (AAPL), featuring EDA, trend analysis, and AI-generated financial insights using GPT-4.
+
+- 📈 **Stock Price Forecasting** using LSTMs  
+- 🔍 **Exploratory Data Analysis (EDA)** for trend analysis  
+- 🏦 **AI-generated financial insights** using GPT-4  
+
+🔗 **Check out the project:**  
+
+[📂 AAPL Stock Prediction](https://github.com/Adityaiyer3004/AAPL-Stock-Prediction)
+
 
 
 ## 🔧 Skills
