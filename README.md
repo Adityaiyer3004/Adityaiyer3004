@@ -26,7 +26,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 
 [📂 Credit Card Fraud Detection](https://github.com/Adityaiyer3004/Adityaiyer3004-AI-Credit-Card-Fraud-Detection)
 
-### 📈 Project 2:Time Series Forecasting of Apple Stock using LSTM 
+### 📈 Project 2: Time Series Forecasting of Apple Stock using LSTM 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Adityaiyer3004/Time-Series-Forecasting-of-Apple-Stock-using-LSTM.git))
 
 📊 LSTM-based stock price prediction for Apple (AAPL), featuring EDA, trend analysis, and AI-generated financial insights using GPT-4.
