@@ -8,7 +8,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 ## 🧐 About Me
 
 - 🎓 **Education**: Master's in AI from Queen Mary University of London  
-- 💼 **Experience**: Junior AI Engineer, Former Python and AI Teacher and Instructor  
+- 💼 **Experience**: AI Engineer, Former Python and AI Teacher and Instructor  
 - 🔍 **Current Focus**: Building AI-driven analytics tools for retail and finance
 
 ## 🚀 My Projects
