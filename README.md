@@ -37,7 +37,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 
 🔗 **Check out the project:**  
 
-[📂Time-Series-Forecasting-of-Apple-Stock-using-LSTM](https://github.com/Adityaiyer3004/Time-Series-Forecasting-of-Apple-Stock-using-LSTM.git))
+[📂Time-Series-Forecasting-of-Apple-Stock-using-LSTM](https://github.com/Adityaiyer3004/Time-Series-Forecasting-of-Apple-Stock-using-LSTM.git)
 
 ### Project 3: 🖼️ Image Classification with CNN Architectures
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)]([https://github.com/<your-username>/Deeper-Networks-Image-Classification](https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git))
@@ -50,7 +50,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 
 🔗 **Check out the project:**  
 
-[📂 Deeper Networks for Image Classification](https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git))
+[📂 Deeper Networks for Image Classification](https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git)
 
 ---
 
