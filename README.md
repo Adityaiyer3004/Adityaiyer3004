@@ -53,7 +53,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 [📂 Deeper Networks for Image Classification](https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git)
 
 ### Project 4: 🚇 London Underground Route Optimisation
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)]](https://github.com/Adityaiyer3004/London-Underground-Route-Optimisation.git)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Adityaiyer3004/London-Underground-Route-Optimisation.git)
 
 🗺️ Python-based graph search (BFS, DFS, UCS) and heuristic algorithms for efficient London Underground pathfinding, enhanced with Genetic Algorithms for optimisation.
 
