@@ -39,6 +39,20 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 
 [📂Time-Series-Forecasting-of-Apple-Stock-using-LSTM](https://github.com/Adityaiyer3004/Time-Series-Forecasting-of-Apple-Stock-using-LSTM.git))
 
+### Project 3: 🖼️ Image Classification with CNN Architectures
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)]([https://github.com/<your-username>/Deeper-Networks-Image-Classification](https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git))
+
+🔬 A comprehensive analysis of state-of-the-art CNN architectures (VGG, ResNet, GoogLeNet, Inception) for image classification on MNIST and CIFAR-10 datasets.
+
+- ✅ **CNN architecture analysis** for robust image recognition
+- 📚 **Evaluated on MNIST and CIFAR-10**, providing comparative insights
+- 🖥️ **Recommended training setup** with Google Colab GPU support
+
+🔗 **Check out the project:**  
+[📂 Deeper Networks for Image Classification]([https://github.com/<your-username>/Deeper-Networks-Image-Classification](https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git))
+
+---
+
 
 
 ## 🔧 Skills
