@@ -49,7 +49,7 @@ I'm passionate about AI, machine learning, and data science. I enjoy exploring d
 - 🖥️ **Recommended training setup** with Google Colab GPU support
 
 🔗 **Check out the project:**  
-[📂 Deeper Networks for Image Classification]([https://github.com/<your-username>/Deeper-Networks-Image-Classification](https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git))
+[📂 Deeper Networks for Image Classification]((https://github.com/Adityaiyer3004/Image-classification-using-CNNs.git))
 
 ---
 
